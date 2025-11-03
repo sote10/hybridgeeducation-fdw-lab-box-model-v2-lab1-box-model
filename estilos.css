@@ -1,2 +1,10 @@
 /* Agrega tus estilos aquí */
 /* Debes crear una clase llamada mi-div */
+
+.mi-div {
+  width: 320px;
+  height: 50px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
